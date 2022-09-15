@@ -1,1 +1,15 @@
 // app global css in SCSS form
+.background{
+  background-image: url("assets/h5.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: auto;
+}
+
+.button-right{
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}

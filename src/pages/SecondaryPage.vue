@@ -17,7 +17,7 @@
       </div>
 
       <div class="col-12 flex flex-center q-mt-xl">
-        <q-btn round color="black" icon="chevron_left" @click="$router.push('/primary')" />
+        <q-btn round color="black" icon="chevron_left" @click="$router.push('/landscape')" />
       </div>
     </div>
 
