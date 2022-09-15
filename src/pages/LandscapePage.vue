@@ -7,10 +7,9 @@
     </q-drawer>
     <q-page-container>
       <q-page class="background">
-        <div class="q-pa-md">
-          <q-btn :loading="progress[2].loading" :percentage="progress[2].percentage" dark-percentage unelevated
-            color="blue-10" text-color="blue-grey-11" @click="startComputing(2)" icon="cloud_upload"
-            style="width: 100px;" />
+        <div class="q-pa-lg">
+          <q-btn unelevated flat color="blue-10" text-color="blue-grey-11" @click="startComputing(2)"
+            icon="cloud_upload" style="width: 100px;" class="absolute-top-right" />
         </div>
       </q-page>
 
