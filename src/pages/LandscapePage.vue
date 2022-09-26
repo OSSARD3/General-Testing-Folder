@@ -59,7 +59,7 @@
             </div>
           </div>
         </div>
-        <div class=" flex flex-center containssvg">
+        <div class="absolute-right flex flex-center containssvg">
           <div style="position:relative; height: 200px; width: 200px; border-radius: 50%; background-color: #F78D29;">
 
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
